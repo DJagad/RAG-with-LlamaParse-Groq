@@ -1,0 +1,12 @@
+llama-parse
+llama-index-embeddings-fastembed
+llama-index
+fastembed
+llama-index-vector-stores-qdrant
+qdrant-client
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+python-dotenv
+llama-index-llms-groq
+jupyter
+streamlit
