@@ -63,7 +63,7 @@ def main():
     qdrant_api_key = os.getenv("QDRANT_API_KEY")
     #print(qdrant_api_key)
     groq_api_key = os.getenv("GROQ_API_KEY")
-    print(groq_api_key)
+    #print(groq_api_key)
 
     # Allow user to select a model
     model_options = ["mixtral-8x7b-32768", "gemma-7b-it", "llama2-70b-4096"]
